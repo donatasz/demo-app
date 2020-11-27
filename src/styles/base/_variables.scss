@@ -1,0 +1,33 @@
+// Breakpoints
+$large-breakpoint: 1200px;
+$medium-breakpoint: 767px;
+$small-breakpoint: 479px;
+
+// Colors
+$color-white: #FFFFFF;
+$color-black: #000000;
+$color-green: #20554E;
+$color-light-green: #32736A;
+$color-grey: #EDEDED;
+$color-light-grey: #FAFAFA;
+$color-bg-dark: #262626;
+$color-bg-light: $color-light-grey;
+
+// Text
+$color-text: #000000;
+$color-text-link: #24665D;
+$color-text-muted: #C5C5C5;
+$color-text-button-green: #24665D;
+$color-text-button-light-grey: #FCFCFC;
+
+
+// Borders
+$color-border-form: #DEDEDE;
+$color-border-input: #C4C4C4;
+$color-border-input-hover: $color-light-green;
+$color-border-button: #0B382B;
+
+// Misc
+$border-radius-form: .5rem; // 8px
+$border-radius-input: .1875rem; // 3px
+$box-shadow-form: 0 .25rem 1.5rem rgba(0, 0, 0, .4);
